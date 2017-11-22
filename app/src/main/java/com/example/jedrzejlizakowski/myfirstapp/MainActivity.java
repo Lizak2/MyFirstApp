@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     String message = "Zero";
-    // I'VE CHANGED SOMETHING HAHAHAHAHAHAHAHAH <EVIL_LAUGH_AF>
+    // I'VE CHANGED SOMETHING HAHAHAHAHAHAHAHAH <EVIL_LAUGH_AF> :D :D :D
 
     /** Called when the user taps the Send button*/
     public void goToSub1Button(View view)
